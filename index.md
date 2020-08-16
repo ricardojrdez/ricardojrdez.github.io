@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 ## About myself
 
 Hi there! This webpage is just a summary of my CV focused on my research and teaching work. More detailed information (such as contact data) can be found on [my profile webpage of the University of Zaragoza](https://webdiis.unizar.es/~ricardo/).
