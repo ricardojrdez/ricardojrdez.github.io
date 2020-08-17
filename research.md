@@ -38,6 +38,7 @@ Conference on Performance Evaluation Methodologies and Tools (VALUETOOLS 2019)](
 
 ### Programm Committee member
 
+* [DFRWS EU 2021](https://dfrws.org/conferences/dfrws-eu-2021/)
 * [JNIC 2021](https://2021.jnic.es/)
 * [VECoS 2020](http://vecos-world.org/2020/)
 * [ETFA 2020](https://www.ieee-etfa.org/)
