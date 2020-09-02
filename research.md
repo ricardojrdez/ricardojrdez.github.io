@@ -43,6 +43,8 @@ Conference on Performance Evaluation Methodologies and Tools (VALUETOOLS 2019)](
 * [VECoS 2020](http://vecos-world.org/2020/)
 * [ETFA 2020](https://www.ieee-etfa.org/)
 * [WFCS 2020](https://ieeexplore.ieee.org/xpl/conhome/9110481/proceeding)
+* [CISTI 2020](https://ieeexplore.ieee.org/xpl/conhome/9137058/proceeding)
+* [MICRADS 2020](http://www.risti.xyz/issues/ristie29.pdf)
 * [JNIC 2019](https://2019.jnic.es/)
 * [ETFA 2019](https://ieeexplore.ieee.org/xpl/conhome/8851311/proceeding)
 * [WFCS 2019](https://ieeexplore.ieee.org/xpl/conhome/8755442/proceeding)
