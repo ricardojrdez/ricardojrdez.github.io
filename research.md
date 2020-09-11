@@ -61,7 +61,7 @@ Conference on Performance Evaluation Methodologies and Tools (VALUETOOLS 2019)](
 
 ### Other Activities
 
-* Member of Foro Nacional de Ciberseguridad, 2020 - (onward)
+* Member of Foro Nacional de Ciberseguridad (in CRUE subgroup), 2020 - (onward)
 * Member of the board of IEEE Computer Society-Spanish chapter, December 2018 - (onward)
 * Secretary of the [Sociedad Científica de Computación Distribuida](http://sccd.unizar.es), June 2017 – (onward)
 * Member of [IEEE-IES Technical Committee on Factory Automation, Subcommittee on Fault Tolerant and Dependable Systems](https://sites.google.com/view/ies-tcfa/home), May 2017 – (onward)
