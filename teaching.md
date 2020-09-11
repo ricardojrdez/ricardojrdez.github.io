@@ -20,6 +20,8 @@ Unless explicitly stated, the following PDFs are in Spanish.
 
 ### MSc. students
 
+* [Exfiltración de datos en protocolos IoT](https://webdiis.unizar.es/~ricardo/files/TFMs/Exfiltracion-Datos-Protocolos-IoT_TFM_ULE.pdf). Student: Daniel Uroz Hinarejos. Master's degree in Research in Cybersecurity (University of León, Spain), course 2019/2020.
+* [Análisis de malware mediante grafos de su comportamiento](https://webdiis.unizar.es/~ricardo/files/TFMs/Analisis-Malware-Grafos-Comportamiento_TFM_ULE.pdf). Student: Fernando Heras Díez. Master's degree in Research in Cybersecurity (University of León, Spain), course 2019/2020.
 * [Ataques a Criptomonedas y seguimiento de carteras digitales](https://webdiis.unizar.es/~ricardo/files/TFMs/AtaquesCriptomonedasSeguimientoCarteras.pdf). Student: Javier Rodríguez Villalobos. Master's degree in Research in Cybersecurity (University of León, Spain), course 2018/2019.
 * [Desarrollo de una librería de usuario para detección de TOCTOU en entornos Linux](https://webdiis.unizar.es/~ricardo/files/TFMs/DeteccionTOCTOU_LibreriaLinux.pdf). Student: Razvan Raducu. Master's degree in Research in Cybersecurity (University of León, Spain), course 2018/2019.
 * [Análisis de criptografía usada por ransomware mediante instrumentación dinámica de binarios](https://webdiis.unizar.es/~ricardo/files/TFMs/CriptografiaRansomwareDBI.pdf). Student: Ignacio Samuel Crespo Martínez. Master's degree in Research in Cybersecurity (University of León, Spain), course 2018/2019.
