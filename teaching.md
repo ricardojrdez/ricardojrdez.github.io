@@ -20,7 +20,7 @@ Unless explicitly stated, the following PDFs are in Spanish.
 
 ### MSc. students
 
-* [Exfiltración de datos en protocolos IoT](https://webdiis.unizar.es/~ricardo/files/TFMs/Exfiltracion-Datos-Protocolos-IoT_TFM_ULE.pdf). Student: Daniel Uroz Hinarejos. Master's degree in Research in Cybersecurity (University of León, Spain), course 2019/2020.
+* [Data Exfiltration in IoT Protocols](https://webdiis.unizar.es/~ricardo/files/TFMs/Exfiltracion-Datos-Protocolos-IoT_TFM_ULE.pdf) (in English). Student: Daniel Uroz Hinarejos. Master's degree in Research in Cybersecurity (University of León, Spain), course 2019/2020.
 * [Análisis de malware mediante grafos de su comportamiento](https://webdiis.unizar.es/~ricardo/files/TFMs/Analisis-Malware-Grafos-Comportamiento_TFM_ULE.pdf). Student: Fernando Heras Díez. Master's degree in Research in Cybersecurity (University of León, Spain), course 2019/2020.
 * [Ataques a Criptomonedas y seguimiento de carteras digitales](https://webdiis.unizar.es/~ricardo/files/TFMs/AtaquesCriptomonedasSeguimientoCarteras.pdf). Student: Javier Rodríguez Villalobos. Master's degree in Research in Cybersecurity (University of León, Spain), course 2018/2019.
 * [Desarrollo de una librería de usuario para detección de TOCTOU en entornos Linux](https://webdiis.unizar.es/~ricardo/files/TFMs/DeteccionTOCTOU_LibreriaLinux.pdf). Student: Razvan Raducu. Master's degree in Research in Cybersecurity (University of León, Spain), course 2018/2019.
@@ -32,6 +32,7 @@ Unless explicitly stated, the following PDFs are in Spanish.
 
 ### BSc. students
 
+* [Prototipo de plataforma tipo SIEM para monitorización de alertas en un SOC](https://webdiis.unizar.es/~ricardo/files/TFGs/PrototipoPlataformaSIEMMonitorizacionAlertas_TFG.pdf). Student: Miguel Yanes Fernández. Bachelor's degree in Informatics Engineering, course 2019/2020.
 * Posibilidades de mando, control y comunicaciones en el VCI Pizarro. Student: CAC. Raúl Uña Jurado. Bachelor's degree in Industrial Organisational Engineering, course 2018/2019.
 * Estudio de la obtención de información en las compañías de infantería. Student: CAC. Víctor Pérez García-Miguel. Bachelor's degree in Industrial Organisational Engineering, course 2018/2019.
 * [Generación automática de reglas de seguridad en base a registros de sistema](https://webdiis.unizar.es/~ricardo/files/TFGs/GeneracionReglasIDSLogs.pdf). Student: Asier Salueña Sediles. Bachelor's degree in Informatics Engineering, course 2017/2018.
