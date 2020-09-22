@@ -6,11 +6,11 @@ permalink: /research/
 
 # Research
 
-This page lists my professional activities regarding research. A list of my publications is available in [this external link](http://webdiis.unizar.es/~ricardo/publications/). If you are interested on the Research & Innovation project where I'm involved, please visit [this external link](https://reversea.me/index.php/research/research-innovation-projects/).
+This page lists my professional activities regarding research. A list of my publications is available in [this link](http://webdiis.unizar.es/~ricardo/publications/). If you are interested on the Research & Innovation project where I'm involved, please visit [this link](https://reversea.me/index.php/research/research-innovation-projects/).
 
 My ORCID number is [0000-0001-7982-0359](http://orcid.org/0000-0001-7982-0359).
 
-My list of publications maintained by DBLP is available through [this link](https://dblp.uni-trier.de/pers/r/Rodr=iacute=guez:Ricardo_J=.html).
+My list of publications maintained by DBLP is available [in this link](https://dblp.uni-trier.de/pers/r/Rodr=iacute=guez:Ricardo_J=.html).
 
 My Google Scholar profile is available [in this link](https://scholar.google.es/citations?user=HlQC1OcAAAAJ&hl=en).
 
@@ -18,7 +18,7 @@ My Google Scholar profile is available [in this link](https://scholar.google.es/
 
 ### Guest Editor
 
-* [ACM DTRAP](https://dl.acm.org/journal/dtrap) [Special Issue on Challenges and Trends in Malware Analysis](https://dtrap-blog.acm.org/2020/08/06/special-issue-on-challenges-and-trends-in-malware-analysis/), 2020 [DEADLINE: Nov 30, 2020]
+* [ACM DTRAP](https://dl.acm.org/journal/dtrap) [Special Issue on Challenges and Trends in Malware Analysis](https://dtrap-blog.acm.org/2020/08/06/special-issue-on-challenges-and-trends-in-malware-analysis/), 2020 [**DEADLINE: Nov 30, 2020**]
 * [Int. J. Critical Computer-Based Systems](https://www.inderscience.com/jhome.php?jcode=ijccbs), [Vol. 9, Nos. 1/2, 2019](https://www.inderscience.com/info/inarticletoc.php?jcode=ijccbs&year=2019&vol=9&issue=1/2)
 
 ### Editorial Board member
