@@ -12,7 +12,9 @@ A list of current and previous courses **in undergraduate levels** at the School
 
 ### Course 2020-2021
 
-* TODO 
+* [Exploiting Software Vulnerabilities](https://webdiis.unizar.es/~ricardo/esv-62240/). Optional course (3 ECTS) in Master’s Degree in Informatics Engineering, School of Engineering and Architecture, University of Zaragoza (Spain)
+* [Software Analysis I](https://agora.unileon.es/course/view.php?id=2950). Mandatory course (6 ECTS) in Master's Degree in Research in Cybersecurity, University of León (Spain) 
+* [Software Analysis II](https://agora.unileon.es/course/view.php?id=2962). Optional course (6 ECTS) in Master's Degree in Research in Cybersecurity, University of León (Spain) 
 
 ## Advisory of MSc. and BSc. students
 
