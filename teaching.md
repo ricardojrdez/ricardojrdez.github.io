@@ -34,6 +34,7 @@ Unless explicitly stated, the following PDFs are in Spanish.
 
 ### BSc. students
 
+* [Sistema de fuzzing para identificación de tarjetas NFC](https://webdiis.unizar.es/~ricardo/files/TFGs/SistemaFuzzingNFC_TFG.pdf). Student: Pablo del Val Egido. Bachelor's degree in Telecomunications Technology and Services Engineering, course 2019/2020.
 * [Prototipo de plataforma tipo SIEM para monitorización de alertas en un SOC](https://webdiis.unizar.es/~ricardo/files/TFGs/PrototipoPlataformaSIEMMonitorizacionAlertas_TFG.pdf). Student: Miguel Yanes Fernández. Bachelor's degree in Informatics Engineering, course 2019/2020.
 * Posibilidades de mando, control y comunicaciones en el VCI Pizarro. Student: CAC. Raúl Uña Jurado. Bachelor's degree in Industrial Organisational Engineering, course 2018/2019.
 * Estudio de la obtención de información en las compañías de infantería. Student: CAC. Víctor Pérez García-Miguel. Bachelor's degree in Industrial Organisational Engineering, course 2018/2019.
