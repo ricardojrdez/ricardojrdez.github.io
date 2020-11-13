@@ -38,10 +38,13 @@ Conference on Performance Evaluation Methodologies and Tools (VALUETOOLS 2019)](
 
 ### Programm Committee member
 
+* [ETFA 2021](https://www.ieee-etfa.org/)
+* [WFCS 2021](https://konferenzen.jku.at/wfcs2021/)
 * [DFRWS EU 2021](https://dfrws.org/conferences/dfrws-eu-2021/)
 * [JNIC 2021](https://2021.jnic.es/)
+* [ICITST 2020](https://icitst.org/)
 * [VECoS 2020](http://vecos-world.org/2020/)
-* [ETFA 2020](https://www.ieee-etfa.org/)
+* [ETFA 2020](https://ieeexplore.ieee.org/xpl/conhome/9210104/proceeding)
 * [WFCS 2020](https://ieeexplore.ieee.org/xpl/conhome/9110481/proceeding)
 * [CISTI 2020](https://ieeexplore.ieee.org/xpl/conhome/9137058/proceeding)
 * [MICRADS 2020](http://www.risti.xyz/issues/ristie29.pdf)
