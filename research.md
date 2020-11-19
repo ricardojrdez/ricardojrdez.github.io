@@ -24,6 +24,7 @@ My Google Scholar profile is available [in this link](https://scholar.google.es/
 ### Editorial Board member
 
 * [Frontiers in Control Engineering (Control and Automation Systems section)](https://www.frontiersin.org/journals/control-engineering#) 
+* [Revista Ibérica de Sistemas y Tecnologías de la Información](http://www.risti.xyz/index.php?option=com_content&view=article&id=3&Itemid=104&lang=es)
 
 ### Conference Chair:
 
