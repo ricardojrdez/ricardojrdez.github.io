@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Teaching
-permalink: /teaching/
+title: Publications
+permalink: /publications/
 ---
 
 # Research publications
