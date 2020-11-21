@@ -6,7 +6,7 @@ permalink: /research/
 
 # Research
 
-This page lists my professional activities regarding research. A list of my publications is available in [this link](http://webdiis.unizar.es/~ricardo/publications/). If you are interested on the Research & Innovation project where I'm involved, please visit [this link](https://reversea.me/index.php/research/research-innovation-projects/).
+This page lists my professional activities regarding research. A list of my publications is available [here](publications). If you are interested on the Research & Innovation project where I'm involved, please visit [this link](https://reversea.me/index.php/research/research-innovation-projects/).
 
 My ORCID number is [0000-0001-7982-0359](http://orcid.org/0000-0001-7982-0359).
 

@@ -16,7 +16,7 @@ My PGP public key can be found [here](http://webdiis.unizar.es/~ricardo/files/rj
 
 ## Research
 
-A list of my publications can be found on the [Publications](https://webdiis.unizar.es/~ricardo/publications/) page.
+A list of my publications can be found on the [Publications](publications) page.
 
 A list of my talks and seminars can be found on the [Talks](talks) page.
 
