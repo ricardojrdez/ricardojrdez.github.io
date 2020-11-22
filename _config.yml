@@ -21,7 +21,7 @@
 title: Ricardo J. Rodríguez
 email: rjrodriguez@unizar.es
 description: >- # this means to ignore newlines until "baseurl:"
-  Ph.D. on Computer Science and System Engineering by the University of Zaragoza, Spain. Researching on program binary analysis, digital forensics, and system security analysis. Procrastination lover. 
+  Ph.D. on Computer Science and System Engineering by the University of Zaragoza, Spain. Researching on program binary analysis, digital forensics, and system security analysis. Procrastination lover. Living as a Markovian process 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://www.ricardojrodriguez.es" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ricardojrdez
