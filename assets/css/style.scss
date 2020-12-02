@@ -11,9 +11,34 @@ img {
   margin-bottom: 50px;
 }
 
+nav {
+  float: right;
+  margin-top: 23px; // @TODO: Vertically middle align
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 18px;
+
+  @include mobile {
+    float: none;
+    margin-top: 9px;
+    display: block;
+    font-size: 16px;
+  }
+
+  a {
+    margin-left: 20px;
+    text-align: right;
+    font-weight: 300;
+    letter-spacing: 1px;
+
+    @include mobile {
+      margin: 0 10px;
+    }
+  }
+}
+
 .masthead {
   padding: 20px 0;
-  border-bottom: 1px solid $lightGray;
+  border-bottom: 1px solid  #eee;
 
   @include mobile {
     text-align: center;
