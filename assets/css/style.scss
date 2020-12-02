@@ -17,7 +17,6 @@ img {
 
 nav {
   float: right;
-  margin-top: 23px; // @TODO: Vertically middle align
   font-size: 18px;
 
   a {
@@ -35,6 +34,7 @@ nav {
 
 .masthead {
   border-bottom: 3px solid  #267CB9;
+  border-top: 3px solid  #267CB9;
   width : auto;
 }
 
@@ -47,7 +47,7 @@ nav {
 }
 
 .main {
-    margin-top: 50px;
+    margin-top: 70px;
 }
 
 .clearfix:after {
