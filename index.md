@@ -37,4 +37,3 @@ Calle María de Luna, 1\
 50018 - Zaragoza\
 Tel: (+34) 976 76 1953
 
-![Sin ciencia no hay futuro](assets/images/sinciencia.png)

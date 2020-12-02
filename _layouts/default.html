@@ -29,6 +29,7 @@
         {% if site.github.is_user_page %}
         <p class="view"><a href="{{ site.github.owner_url }}">View My GitHub Profile</a><br/>
         <a href="https://twitter.com/RicardoJRdez">View My Twitter Profile</a></p>
+        <img src="{{ site.baseurl }}/assets/images/sinciencia.png"/>
         {% endif %}
 
         {% if site.show_downloads %}
@@ -43,7 +44,6 @@
       <div class="wrapper-masthead">
         <div class="container">
             <header class="masthead clearfix">
-                <img src="{{ site.baseurl }}/assets/images/sinciencia.png"/>
                 <nav>
                     <a href="{{ site.baseurl }}/publications">Publications</a>
                     <a href="{{ site.baseurl }}/research">Research</a>
@@ -54,11 +54,9 @@
             </header>
         </div>
       </div>
-
-
-
+        <div id="main">
       {{ content }}
-
+        </div>
       </section>
       <footer>
         {% if site.github.is_project_page %}
