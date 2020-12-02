@@ -25,9 +25,25 @@ nav {
   }
 }
 
-.masthead {
-  border-bottom: 1px solid  #eee;
+.body {
+    padding: 0px;
+}
 
+.masthead {
+  border-bottom: 3px solid  #267CB9;
+
+}
+
+.box {
+    height: 60px;
+}
+
+.white {
+    background: white;
+}
+
+.main {
+    margin-top: 50px;
 }
 
 .clearfix:after {
