@@ -6,3 +6,20 @@
 img {
     max-width: 70%;
 }
+
+.wrapper-masthead {
+  margin-bottom: 50px;
+}
+
+.masthead {
+  padding: 20px 0;
+  border-bottom: 1px solid $lightGray;
+
+  @include mobile {
+    text-align: center;
+  }
+}
+
+.clearfix:after {
+    clear: both;
+}
