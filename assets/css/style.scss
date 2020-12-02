@@ -3,6 +3,10 @@
 
 @import "jekyll-theme-minimal";
 
+body {
+    padding: 0px;
+}
+
 img {
     max-width: 70%;
 }
@@ -31,7 +35,7 @@ nav {
 
 .masthead {
   border-bottom: 3px solid  #267CB9;
-
+  width : auto;
 }
 
 .box {
@@ -49,3 +53,4 @@ nav {
 .clearfix:after {
     clear: both;
 }
+
