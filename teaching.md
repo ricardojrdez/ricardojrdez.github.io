@@ -8,9 +8,9 @@ permalink: /teaching/
 
 This page lists some courses that I am or have been fortunate to teach, as well as related activities. 
 
-A list of current and previous courses **in undergraduate levels** at the School of Engineering and Archicture of University of Zaragoza is available on [this page](teaching/undergraduate) page. 
+A list of current and previous courses **in undergraduate levels** at the School of Engineering and Archicture of University of Zaragoza is available on [this page](undergraduate) page. 
 
-A list of current and previous courses **in postgraduate levels** is available on [this page](teaching/postgraduate) page. 
+A list of current and previous courses **in postgraduate levels** is available on [this page](postgraduate) page. 
 
 
 ## Advisory of MSc. and BSc. students
