@@ -17,7 +17,10 @@ This page lists some courses that I am or have been fortunate to teach in postgr
 
 ## Past courses
 
-### Courses XXX-XXX to 2019-2020
+### Courses 2017-2018 to 2019-2020
+
+* Software Analysis II. Optional course (6 ECTS) in Master's Degree in Research in Cybersecurity, University of León (Spain).
+
+### Courses 2016-2017 to 2019-2020
 
 * Software Analysis I. Mandatory course (6 ECTS) in Master's Degree in Research in Cybersecurity, University of León (Spain).
-* Software Analysis II. Optional course (6 ECTS) in Master's Degree in Research in Cybersecurity, University of León (Spain).
