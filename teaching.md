@@ -27,10 +27,11 @@ Unless explicitly stated, the following PDFs are in Spanish.
 * [Análisis estático y comparativa de apps iOS provenientes de diferentes mercados de apps](https://webdiis.unizar.es/~ricardo/files/TFMs/AnalisisEstatico_iOSAppsMercadosAlternativos.pdf). Student: Adrián Campazas Vega. Master's degree in Research in Cybersecurity (University of León, Spain), course 2018/2019.
 * Análisis de la Gestión de Riesgos de una Oficina de Programa empleando la metodología AGILE. Student: Miguel Ángel Santiago Gómez. Master's degree in Management of Defense Systems Acquisition, course 2018/2019.
 * El apoyo de Ingeniería a los programas de la DGAM. Student: Francisco Javier Millán Gamboa. Master's degree in Management of Defense Systems Acquisition, course 2018/2019.
-* Detección de Aplicaciones Maliciosas de Android mediante Técnicas de Machine Learning. Stduent: Alejandro Fernández Castrillo. Master's degree in Research in Cybersecurity (University of León, Spain), course 2017/2018.
+* Detección de Aplicaciones Maliciosas de Android mediante Técnicas de Machine Learning. Student: Alejandro Fernández Castrillo. Master's degree in Research in Cybersecurity (University of León, Spain), course 2017/2018.
 
 ### BSc. students
 
+* [Sistema para categorización de textos en un ámbito nicho con pocos datos etiquetados](https://webdiis.unizar.es/~ricardo/files/TFGs/CategozacionTextosAmbitosPocosDatosEtiquetados.pdf). Student: Miguel Escribano Pérez. Bachelor's degree in Informatics Engineering, course 2020/2021.
 * [Infraestructura software para el análisis de las interacciones en Twitter: aplicación a la detección de trastornos de conducta alimentaria](https://webdiis.unizar.es/~ricardo/files/TFGs/AnalisisInteraccionesTwitterDeteccionTCA.pdf). Student: Daniel Revillo Rey. Bachelor's degree in Informatics Engineering, course 2020/2021.
 * [Sistema de fuzzing para identificación de tarjetas NFC](https://webdiis.unizar.es/~ricardo/files/TFGs/SistemaFuzzingNFC_TFG.pdf). Student: Pablo del Val Egido. Bachelor's degree in Telecommunications Technology and Services Engineering, course 2019/2020.
 * [Prototipo de plataforma tipo SIEM para monitorización de alertas en un SOC](https://webdiis.unizar.es/~ricardo/files/TFGs/PrototipoPlataformaSIEMMonitorizacionAlertas_TFG.pdf). Student: Miguel Yanes Fernández. Bachelor's degree in Informatics Engineering, course 2019/2020.
