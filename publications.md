@@ -10,12 +10,12 @@ permalink: /publications/
 
 *Personal use of this material is permitted. However, permission to reprint/republish this material for advertising or promotional purposes or for creating new collective works for resale or redistribution to servers or lists, or to reuse any copyrighted component of this work in other works must be obtained from the Publisher.*
 
-
 ## 2021
 
-- **Bringing Order to Approximate Matching: Classification and Attacks on Similarity Digest Algorithms**. Miguel Martín-Pérez, Ricardo J. Rodríguez, Frank Breitinger, *Forensic Science International: Digital Investigation*, vol. , pp. , 2021.  [![external URL](assets/images/external.png)](http://webdiis.unizar.es/~ricardo/files/papers/MRB-FSIDI-21.pdf)
+- **A Vision for Improving Business Continuity through Cyber-resilience Mechanisms and Frameworks**. Miguel Hernández-Bejarano, Ricardo J. Rodríguez, José Merseguer, in *Proceedings of the 16th Iberian Conference on Information Systems and Technologies (CISTI)*, 2021.  [![external URL](assets/images/external.png)](http://webdiis.unizar.es/~ricardo/files/papers/HRM-CISTI-21.pdf)
+- **Evaluation of the Executional Power in Windows using Return Oriented Programming**. Daniel Uroz, Ricardo J. Rodríguez, in *Proceedings of the 15th IEEE Workshop on Offensive Technologies (WOOT)*, pp. 12, IEEE, 2021.  [![external URL](assets/images/external.png)](http://webdiis.unizar.es/~ricardo/files/papers/UR-WOOT-21.pdf)
+- **Bringing Order to Approximate Matching: Classification and Attacks on Similarity Digest Algorithms**. Miguel Martín-Pérez, Ricardo J. Rodríguez, Frank Breitinger, *Forensic Science International: Digital Investigation*, vol. 36, pp. 301120, 2021. doi: [10.1016/j.fsidi.2021.301120](https://doi.org/10.1016/j.fsidi.2021.301120) [![external URL](assets/images/external.png)](http://webdiis.unizar.es/~ricardo/files/papers/MRB-FSIDI-21.pdf)
 - **Pre-processing Memory Dumps to Improve Similarity Score of Windows Modules**. Miguel Martín-Pérez, Ricardo J. Rodríguez, Davide Balzarotti, *Computers & Security*, vol. 101, pp. 102119, 2021. doi: [10.1016/j.cose.2020.102119](https://doi.org/10.1016/j.cose.2020.102119) [![external URL](assets/images/external.png)](http://webdiis.unizar.es/~ricardo/files/papers/MRB-COSE-21.pdf)
-
 
 ## 2020
 
