@@ -39,6 +39,7 @@ Conference on Performance Evaluation Methodologies and Tools (VALUETOOLS 2019)](
 
 ### Programm Committee member
 
+* [WoSoCer 2021](http://2021.issre.net/WoSoCer)
 * [ETFA 2021](https://www.ieee-etfa.org/)
 * [WFCS 2021](https://konferenzen.jku.at/wfcs2021/)
 * [DFRWS EU 2021](https://dfrws.org/conferences/dfrws-eu-2021/)
