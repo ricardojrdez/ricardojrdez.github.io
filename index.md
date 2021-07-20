@@ -4,28 +4,29 @@ layout: default
 
 ## About myself
 
-Hi there! I'm a Computer Engineer, working as an Associate Professor at the [University of Zaragoza](http://www.unizar.es) (Spain) since April 2021. Formerly, I've been working as assistant professor in the same university (since Sept 2019) and in the [Centro Universitario de la Defensa-Zaragoza](http://cud.unizar.es/) (from Feb 2017 to Sept 2019), as Senior Researcher at the [Research Institute of Applied Sciences in Cybersecurity](https://riasc.unileon.es/), [University of León](https://www.unileon.es/) (Spain) [from Jul 2014 to Sept 2015], and as Junior Researcher at the [BABEL Research Group](https://babel.upm.es/), [School of Computer Science](https://www.fi.upm.es/), [Technical University of Madrid](https://www.upm.es/) (Spain) [from Mar 2013 to Jun 2014]. 
+Hi there! I'm a Computer Engineer, I've been working as an Associate Professor at the [University of Zaragoza](http://www.unizar.es) (Spain) since April 2021. Previously, I've been working as an assistant professor at the same university (since Sept 2019) and at the [Centro Universitario de la Defensa-Zaragoza](http://cud.unizar.es/) (from Feb 2017 to Sept 2019), as a Senior Researcher at the [Research Institute of Applied Sciences in Cybersecurity](https://riasc.unileon.es/), [University of León](https://www.unileon.es/) (Spain) [from Jul 2014 to Sept 2015], and as a Junior Researcher at the [BABEL Research Group](https://babel.upm.es/), [School of Computer Science](https://www.fi.upm.es/), [Technical University of Madrid](https://www.upm.es/) (Spain) [from Mar 2013 to Jun 2014]. 
 
-I successfully defended my PhD, entitled ["Performance Analysis and Resource Optimisation of Critical Systems Modelled by Petri Nets"](http://webdiis.unizar.es/~ricardo/files/papers/RJRodriguez-PhD-Thesis.pdf), on June 24, 2013, in [University of Zaragoza](http://www.unizar.es). My main research interest is program binary analysis, specially applied in memory forensics and malware. I also  research on formal models to carry out survivability and performance analysis in complex systems. 
+I successfully defended my doctorate, entitled ["Performance Analysis and Resource Optimisation of Critical Systems Modelled by Petri Nets"](http://webdiis.unizar.es/~ricardo/files/papers/RJRodriguez-PhD-Thesis.pdf), on June 24, 2013, at the [University of Zaragoza](http://www.unizar.es). My main research interest is the binary analysis of programs, especially applied in memory forensics and malware analysis. I also do research on formal models for performing survivability and performance analysis on complex systems. 
 
-I am part of the [Distributed Computing research group](http://webdiis.unizar.es/DISCO/) of the University of Zaragoza and member of the [Aragon Institute of Engineering Research](https://i3a.unizar.es/en). In particular, I'm the Principal Investigator in the research line focused on application of formal models to cybersecurity. Under this research line, we have created a dedicated webpage to disseminate our contributions. For more information, see [this link](https://reversea.me/).
+I am part of the [Distributed Computing research group](http://webdiis.unizar.es/DISCO/) at the University of Zaragoza and I am a member of the [Aragon Institute of Engineering Research](https://i3a.unizar.es/en). In particular, I'm the Principal Investigator in the research line focused on application of formal models to cybersecurity. Under this research line, we have created a webpage dedicated to disseminating our contributions. For more information, see [this link](https://reversea.me/).
 
 My PGP public key can be found [here](http://webdiis.unizar.es/~ricardo/files/rjrodriguez.asc).
 
 ## Research
 
-A list of my publications can be found on the [Publications](publications) page.
+You can find a list of my publications on the [Publications](publications) page.
 
-A list of my talks and seminars can be found on the [Talks](talks) page.
+You can find a list of my talks and seminars on the [Talks](talks) page.
 
 A list of my professional research activities, as well as my current and former PhD. students, can be found on the [Research](research) page.
+
 ## Teaching
 
-A list of courses that I am or have been fortunate to teach, as well as related activities (as advisory of BSc. and MSc. students) can be found on the [Teaching](teaching) page.
+On the [Teaching](teaching) page you can find a list of courses that I have or have been fortunate enough to teach, as well as related activities (such as counseling for undergraduate and graduate students). 
 
 ## Contact data
 
-You can reach me by email in rjrodriguez [at] unizar [dot] es. 
+You can contact me by email at rjrodriguez [at] unizar [dot] es. 
 
 ### Post mail address:
 
