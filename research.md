@@ -6,13 +6,13 @@ permalink: /research/
 
 # Research
 
-This page lists my professional activities regarding research. A list of my publications is available [here](publications). If you are interested on the Research & Innovation project where I'm involved, please visit [this link](https://reversea.me/index.php/research/research-innovation-projects/).
+This page lists my professional activities regarding research. A list of my publications is available [here](publications). If you are interested in the Research & Innovation projects in which I'm involved, please visit [this link](https://reversea.me/index.php/research/research-innovation-projects/).
 
 My ORCID number is [0000-0001-7982-0359](http://orcid.org/0000-0001-7982-0359).
 
-My list of publications maintained by DBLP is available [in this link](https://dblp.uni-trier.de/pers/r/Rodr=iacute=guez:Ricardo_J=.html).
+My list of publications maintained by DBLP is available [at this link](https://dblp.uni-trier.de/pers/r/Rodr=iacute=guez:Ricardo_J=.html).
 
-My Google Scholar profile is available [in this link](https://scholar.google.es/citations?user=HlQC1OcAAAAJ&hl=en).
+My Google Scholar profile is available [at this link](https://scholar.google.es/citations?user=HlQC1OcAAAAJ&hl=en).
 
 ## Professional activities
 
@@ -39,35 +39,19 @@ Conference on Performance Evaluation Methodologies and Tools (VALUETOOLS 2019)](
 
 ### Programm Committee member
 
-* [WoSoCer 2021](http://2021.issre.net/WoSoCer)
-* [ETFA 2021](https://www.ieee-etfa.org/)
-* [WFCS 2021](https://konferenzen.jku.at/wfcs2021/)
-* [DFRWS EU 2021](https://dfrws.org/conferences/dfrws-eu-2021/)
-* [JNIC 2021](https://2021.jnic.es/)
-* [ICITST 2020](https://icitst.org/)
-* [VECoS 2020](http://vecos-world.org/2020/)
-* [ETFA 2020](https://ieeexplore.ieee.org/xpl/conhome/9210104/proceeding)
-* [WFCS 2020](https://ieeexplore.ieee.org/xpl/conhome/9110481/proceeding)
-* [CISTI 2020](https://ieeexplore.ieee.org/xpl/conhome/9137058/proceeding)
-* [MICRADS 2020](http://www.risti.xyz/issues/ristie29.pdf)
-* [JNIC 2019](https://2019.jnic.es/)
-* [ETFA 2019](https://ieeexplore.ieee.org/xpl/conhome/8851311/proceeding)
-* [WFCS 2019](https://ieeexplore.ieee.org/xpl/conhome/8755442/proceeding)
-* [JNIC 2018](https://2018.jnic.es/)
-* [ECCWS 2018](https://www.academic-conferences.org/pdf/download-info/eccws-2018-abstract-booklet/)
-* [ECCWS 2017](https://www.academic-conferences.org/pdf/download-info/eccws-2017-abstract-booklet/)
-* [JNIC 2017](https://2017.jnic.es/)
-* [SECURWARE 2017](https://www.iaria.org/conferences2017/SECURWARE17.html)
+* [WoSoCer 2021](http://2021.issre.net/WoSoCer) | [ETFA 2021](https://www.ieee-etfa.org/) | [WFCS 2021](https://konferenzen.jku.at/wfcs2021/) | [DFRWS EU 2021](https://dfrws.org/conferences/dfrws-eu-2021/) | [JNIC 2021](https://2021.jnic.es/)
+* [ICITST 2020](https://icitst.org/) | [VECoS 2020](http://vecos-world.org/2020/) | [ETFA 2020](https://ieeexplore.ieee.org/xpl/conhome/9210104/proceeding) | [WFCS 2020](https://ieeexplore.ieee.org/xpl/conhome/9110481/proceeding) | [CISTI 2020](https://ieeexplore.ieee.org/xpl/conhome/9137058/proceeding) | [MICRADS 2020](http://www.risti.xyz/issues/ristie29.pdf)
+* [JNIC 2019](https://2019.jnic.es/) | [ETFA 2019](https://ieeexplore.ieee.org/xpl/conhome/8851311/proceeding) | [WFCS 2019](https://ieeexplore.ieee.org/xpl/conhome/8755442/proceeding)
+* [JNIC 2018](https://2018.jnic.es/) | [ECCWS 2018](https://www.academic-conferences.org/pdf/download-info/eccws-2018-abstract-booklet/)
+* [ECCWS 2017](https://www.academic-conferences.org/pdf/download-info/eccws-2017-abstract-booklet/) | [JNIC 2017](https://2017.jnic.es/) | [SECURWARE 2017](https://www.iaria.org/conferences2017/SECURWARE17.html)
 * [ICITST 2016](https://ieeexplore.ieee.org/xpl/conhome/8354335/proceeding)
-* [JNIC 2015](https://2015.jnic.es/)
-* [ESSS 2015](https://arxiv.org/html/1506.03250)
-* [SaFoMe 2014](https://www.springer.com/gp/book/9783319152004)
-* [MEMICS 2014](https://www.springer.com/gp/book/9783319148953)
+* [JNIC 2015](https://2015.jnic.es/) | [ESSS 2015](https://arxiv.org/html/1506.03250)
+* [SaFoMe 2014](https://www.springer.com/gp/book/9783319152004) | [MEMICS 2014](https://www.springer.com/gp/book/9783319148953)
 
 ### Other Activities
 
 * Member of _Foro Nacional de Ciberseguridad_ (in CRUE subgroup), 2020 - (onward)
-* Member of the board of IEEE Computer Society-Spanish chapter, December 2018 - (onward)
+* Treasurer of IEEE Computer Society-Spanish chapter, December 2018 - (onward)
 * Secretary of the [Sociedad Científica de Computación Distribuida](http://sccd.unizar.es), June 2017 – (onward)
 * Member of [IEEE-IES Technical Committee on Factory Automation, Subcommittee on Fault Tolerant and Dependable Systems](https://sites.google.com/view/ies-tcfa/home), May 2017 – (onward)
 * Member of [Aragon Institute for Engineering Research](https://i3a.unizar.es/en)
@@ -75,11 +59,11 @@ Conference on Performance Evaluation Methodologies and Tools (VALUETOOLS 2019)](
 
 ## PhD. Advisor
 
-At the moment, I'm advisoring the following PhD. students:
+Currently, I'm advising the following PhD students:
 
 * Miguel Martín-Pérez
 * [José Selvi](https://www.pentester.es/)
 * [Daniel Uroz](https://duroz.github.io/)
 * Miguel Hernández Bejarano
-* Razvan Raducu
+* [Razvan Raducu](https://razvioverflow.github.io/)
 
