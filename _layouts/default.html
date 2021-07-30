@@ -28,8 +28,30 @@
         {% endif %}
 
         {% if site.github.is_user_page %}
-        <p class="view"><a href="{{ site.github.owner_url }}">View My GitHub Profile</a><br/>
-        <i class="fa fa-twitter" aria-hidden="true"></i>&nbsp;&nbsp;<a href="https://www.twitter.com/RicardoJRdez">@RicardoJRdez</a>
+        <p class="view">
+        <i class="fa fa-envelope-o" aria-hidden="true"></i><script type="text/javascript" language="javascript">
+<!--
+{ coded = "RzRw1RX4KH2@KOX2rR.HT"
+  key = "RMZckLNsoCABY60j3fFUaSm7qGniTwdtyueIzPQDgr9Wh5bOXJx18vKHE2Vlp4"
+  shift=coded.length
+  link=""
+  for (i=0; i<coded.length; i++) {
+    if (key.indexOf(coded.charAt(i))==-1) {
+      ltr = coded.charAt(i)
+      link += (ltr)
+    }
+    else {     
+      ltr = (key.indexOf(coded.charAt(i))-shift+key.length) % key.length
+      link += (key.charAt(ltr))
+    }
+  }
+document.write("<a href='mailto:"+link+"'>"+link+"</a>")
+}
+//-->
+</script><noscript>Sorry, you need Javascript on to email me.</noscript><br/>
+        <i class="fa fa-phone" aria-hidden="true"></i><a href="tel:+34976761953">+34 976 76 1953</a><br/>
+        <i class="fa fa-twitter" aria-hidden="true"></i>&nbsp;&nbsp;<a href="https://www.twitter.com/RicardoJRdez">@RicardoJRdez</a></br>
+        <a href="{{ site.github.owner_url }}">View My GitHub Profile</a>
         </p>
         <img src="{{ site.baseurl }}/assets/images/sinciencia.png"/>
         {% endif %}
