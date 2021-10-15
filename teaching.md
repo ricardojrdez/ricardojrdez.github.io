@@ -33,9 +33,9 @@ Unless explicitly stated, the following PDFs are in Spanish.
 
 ### BSc. students
 
-* [Infraestructura software para el arbitraje multiestratégico sobre criptomonedas](https://webdiis.unizar.es/~ricardo/files/TFGs/InfraestructuraSoftwareArbitrajeCriptomonedas.pdf). Student: Daniel Huici Meseguer. Bachelor's degree in Informatics Engineering, course 2021/2022.
+* [Infraestructura software para el arbitraje multiestratégico sobre criptomonedas](https://webdiis.unizar.es/~ricardo/files/TFGs/InfraestructuraSoftwareArbitrajeCriptomonedas.pdf). Student: Daniel Huici Meseguer. Bachelor's degree in Informatics Engineering, course 2020/2021.
 * [Sistema para categorización de textos en un ámbito nicho con pocos datos etiquetados](https://webdiis.unizar.es/~ricardo/files/TFGs/CategozacionTextosAmbitosPocosDatosEtiquetados.pdf). Student: Miguel Escribano Pérez. Bachelor's degree in Informatics Engineering, course 2020/2021.
-* [Infraestructura software para el análisis de las interacciones en Twitter: aplicación a la detección de trastornos de conducta alimentaria](https://webdiis.unizar.es/~ricardo/files/TFGs/AnalisisInteraccionesTwitterDeteccionTCA.pdf). Student: Daniel Revillo Rey. Bachelor's degree in Informatics Engineering, course 2020/2021.
+* [Infraestructura software para el análisis de las interacciones en Twitter: aplicación a la detección de trastornos de conducta alimentaria](https://webdiis.unizar.es/~ricardo/files/TFGs/AnalisisInteraccionesTwitterDeteccionTCA.pdf). Student: Daniel Revillo Rey. Bachelor's degree in Informatics Engineering, course 2019/2020.
 * [Sistema de fuzzing para identificación de tarjetas NFC](https://webdiis.unizar.es/~ricardo/files/TFGs/SistemaFuzzingNFC_TFG.pdf). Student: Pablo del Val Egido. Bachelor's degree in Telecommunications Technology and Services Engineering, course 2019/2020.
 * [Prototipo de plataforma tipo SIEM para monitorización de alertas en un SOC](https://webdiis.unizar.es/~ricardo/files/TFGs/PrototipoPlataformaSIEMMonitorizacionAlertas_TFG.pdf). Student: Miguel Yanes Fernández. Bachelor's degree in Informatics Engineering, course 2019/2020.
 * Posibilidades de mando, control y comunicaciones en el VCI Pizarro. Student: CAC. Raúl Uña Jurado. Bachelor's degree in Industrial Organisational Engineering, course 2018/2019.
