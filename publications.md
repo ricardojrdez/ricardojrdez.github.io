@@ -13,6 +13,7 @@ permalink: /publications/
 
 ## 2021
 
+- **LSGAN-AT: Enhancing Malware Detector Robustness against Adversarial Examples**. Jianhua Wang, Xiaolin Chang, Yixiang Wang, Ricardo J. Rodríguez, Jianan Zhang, *Cybersecurity*, vol. 4:38, iss. 1, pp. 15, 2021. doi: [10.1186/s42400-021-00102-9](https://doi.org/10.1186/s42400-021-00102-9) [![external URL](assets/images/external.png)](http://webdiis.unizar.es/~ricardo/files/papers/WCWRZ-CYSE-21.pdf)
 - **Towards Optimal LSTM Neural Networks for Detecting Algorithmically Generated Domain Names**. Jose Selvi, Ricardo J. Rodríguez, Emilio Soria-Olivas, *IEEE Access*, vol. 9, pp. 126446--126456, 2021. doi: [10.1109/ACCESS.2021.3111307](https://doi.org/10.1109/ACCESS.2021.3111307) [![external URL](assets/images/external.png)](http://webdiis.unizar.es/~ricardo/files/papers/SRS-ACCESS-21.pdf)
 - **Quantifying Paging on Recoverable Data from Windows User-Space Modules**. Miguel Martín-Pérez, Ricardo J. Rodríguez, in *Proceedings of the 12th EAI International Conference on Digital Forensics & Cyber Crime*, Springer, 2021.  [![external URL](assets/images/external.png)](https://webdiis.unizar.es/~ricardo/files/papers/MR-ICDF2C-21.pdf)
 
