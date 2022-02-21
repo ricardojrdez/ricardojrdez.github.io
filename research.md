@@ -63,8 +63,11 @@ Conference on Performance Evaluation Methodologies and Tools (VALUETOOLS 2019)](
 Currently, I'm advising the following PhD students:
 
 * Miguel Martín-Pérez
-* [José Selvi](https://www.pentester.es/)
 * [Daniel Uroz](https://duroz.github.io/)
 * Miguel Hernández Bejarano
 * [Razvan Raducu](https://razvioverflow.github.io/)
 
+
+I have supervised the theses of the following students:
+
+* [Dr. José Selvi](https://www.pentester.es/) (working at NCC Group). ["Técnicas de aprendizaje automático para la detección de dominios maliciosos generados algorítmicamente"](https://webdiis.unizar.es/~ricardo/files/PhDs/JSelvi-PhD-Thesis.pdf) (in Spanish), Universitat de Valencia (Spain), February 21, 2022 
