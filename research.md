@@ -39,7 +39,7 @@ Conference on Performance Evaluation Methodologies and Tools (VALUETOOLS 2019)](
 
 ### Programm Committee member
 
-* [DFRWS EU 2022](https://dfrws.org/conferences/dfrws-eu-2022/) | [WFCS 2022](https://wfcs22.unipv.it/)  
+* [DFRWS EU 2022](https://dfrws.org/conferences/dfrws-eu-2022/) | [JNIC 2022](https://2022.jnic.es/) | [VECoS 2022](http://vecos-world.org/2022/) | [WFCS 2022](https://wfcs22.unipv.it/)  
 * [CISTI 2021](https://ieeexplore.ieee.org/xpl/conhome/9476245/proceeding) | [DFRWS EU 2021](https://dfrws.org/conferences/dfrws-eu-2021/) | [ETFA 2021](https://www.ieee-etfa.org/) | [JNIC 2021](https://2021.jnic.es/) | [VECoS 2021](http://vecos-world.org/2021/) | [WFCS 2021](https://konferenzen.jku.at/wfcs2021/) | [WoSoCer 2021](http://2021.issre.net/WoSoCer) 
 * [CISTI 2020](https://ieeexplore.ieee.org/xpl/conhome/9137058/proceeding) | [ETFA 2020](https://ieeexplore.ieee.org/xpl/conhome/9210104/proceeding) | [ICITST 2020](https://icitst.org/) | [MICRADS 2020](http://www.risti.xyz/issues/ristie29.pdf) | [VECoS 2020](http://vecos-world.org/2020/) | [WFCS 2020](https://ieeexplore.ieee.org/xpl/conhome/9110481/proceeding)
 * [ETFA 2019](https://ieeexplore.ieee.org/xpl/conhome/8851311/proceeding) | [JNIC 2019](https://2019.jnic.es/) | [WFCS 2019](https://ieeexplore.ieee.org/xpl/conhome/8755442/proceeding)
@@ -53,7 +53,7 @@ Conference on Performance Evaluation Methodologies and Tools (VALUETOOLS 2019)](
 
 * Member of _Foro Nacional de Ciberseguridad_ (in CRUE subgroup), 2020 - (onward)
 * Treasurer of IEEE Computer Society-Spanish chapter, December 2018 - (onward)
-* Secretary of the [Sociedad Científica de Computación Distribuida](http://sccd.unizar.es), June 2017 – (onward)
+* Secretary of the [Sociedad Científica de Computación Distribuida](http://sccd.unizar.es), June 2017 – September 2021
 * Member of [IEEE-IES Technical Committee on Factory Automation, Subcommittee on Fault Tolerant and Dependable Systems](https://sites.google.com/view/ies-tcfa/home), May 2017 – (onward)
 * Member of [Aragon Institute for Engineering Research](https://i3a.unizar.es/en)
 * Member of IEEE and IEEE Computer Society, no. #91236646
@@ -62,7 +62,6 @@ Conference on Performance Evaluation Methodologies and Tools (VALUETOOLS 2019)](
 
 Currently, I'm advising the following PhD students:
 
-* Miguel Martín-Pérez
 * [Daniel Uroz](https://duroz.github.io/)
 * Miguel Hernández Bejarano
 * [Razvan Raducu](https://razvioverflow.github.io/)
@@ -70,4 +69,5 @@ Currently, I'm advising the following PhD students:
 
 I have supervised the theses of the following students:
 
-* [Dr. José Selvi](https://www.pentester.es/) (working at NCC Group). ["Técnicas de aprendizaje automático para la detección de dominios maliciosos generados algorítmicamente"](https://webdiis.unizar.es/~ricardo/files/PhDs/JSelvi-PhD-Thesis.pdf) (in Spanish), Universitat de Valencia (Spain), February 21, 2022 
+* [Dr. José Selvi](https://www.pentester.es/). ["Técnicas de aprendizaje automático para la detección de dominios maliciosos generados algorítmicamente"](https://webdiis.unizar.es/~ricardo/files/PhDs/JSelvi-PhD-Thesis.pdf) (in Spanish), Universitat de Valencia (Spain), February 21, 2022 
+* Dr. Miguel Martín-Pérez. ["Effectiveness of Similarity Digest Algorithms for Binary Code Similarity in Memory Forensic Analysis"](https://webdiis.unizar.es/~ricardo/files/PhDs/MMartinPerez-PhD-Thesis.pdf), University of Zaragoza (Spain), March 24, 2022 
