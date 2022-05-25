@@ -10,6 +10,14 @@ permalink: /publications/
 
 *Personal use of this material is permitted. However, permission to reprint/republish this material for advertising or promotional purposes or for creating new collective works for resale or redistribution to servers or lists, or to reuse any copyrighted component of this work in other works must be obtained from the Publisher.*
 
+## 2022
+
+- **Assessing Anonymous and Selfish Free-rider Attacks in Federated Learning**. Jianhua Wang, Xialoin Chang, Ricardo J. Rodríguez, Yixiang Wang, in *Proceedings of the 2022 IEEE Symposium on Computers and Communications*, pp. 6, IEEE, 2022. Accepted for publication. To appear.
+
+- **Evasion and Countermeasures Techniques to Detect Dynamic Binary Instrumentation Frameworks**. Ailton Santos Filho, Ricardo J. Rodríguez, Eduardo L. Feitosa, *Digital Threats: Research and Practice*, vol. 3, iss. 2, pp. 28, 2022. doi: [10.1145/3480463](https://doi.org/10.1145/3480463) [![external URL](assets/images/external.png)](http://webdiis.unizar.es/~ricardo/files/papers/SRF-DTRAP-22.pdf)
+- **Defense and Attack Techniques against File-based TOCTOU Vulnerabilities: a Systematic Review**. Razvan Raducu, Ricardo J. Rodríguez, Pedro Alvarez, *IEEE Access*, vol. 10, pp. 21742--21758, 2022. doi: [10.1109/ACCESS.2022.3153064](https://doi.org/10.1109/ACCESS.2022.3153064) [![external URL](assets/images/external.png)](http://webdiis.unizar.es/~ricardo/files/papers/RRA-ACCESS-22.pdf)
+- **Characterization and Evaluation of IoT Protocols for Data Exfiltration**. Daniel Uroz, Ricardo J. Rodríguez, *IEEE Internet of Things Journal*, vol. PP, pp. PP, 2022. doi: [10.1109/JIOT.2022.3163469](https://doi.org/10.1109/JIOT.2022.3163469) [![external URL](assets/images/external.png)](http://webdiis.unizar.es/~ricardo/files/papers/UR-IOTJ-22.pdf)
+- **Extraction and Analysis of Retrievable Memory Artifacts from Windows Telegram Desktop Application**. Pedro Fernández-Álvarez, Ricardo J. Rodríguez, *Forensic Science International: Digital Investigation*, vol. 40, pp. 301342, 2022. doi: [10.1016/j.fsidi.2022.301342](https://doi.org/10.1016/j.fsidi.2022.301342) [![external URL](assets/images/external.png)](http://webdiis.unizar.es/~ricardo/files/papers/FR-FSIDI-22.pdf)
 
 ## 2021
 
