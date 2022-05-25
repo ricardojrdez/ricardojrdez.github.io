@@ -28,6 +28,7 @@ My Google Scholar profile is available [at this link](https://scholar.google.es/
 
 ### Conference Chair:
 
+* Proceedings Co-Chair of [DFRWS EU 2023]()
 * Publicity and Social Media Chair of [13th EAI International
 Conference on Performance Evaluation Methodologies and Tools (VALUETOOLS 2019)](https://dl.acm.org/doi/proceedings/10.1145/3306309)
 * Publication Chair of [13th Conference on Detection of Intrusions and Malware & Vulnerability Assessment (DIMVA 2016)](https://www.springer.com/gp/book/9783319406664)
@@ -39,7 +40,7 @@ Conference on Performance Evaluation Methodologies and Tools (VALUETOOLS 2019)](
 
 ### Programm Committee member
 
-* [DFRWS EU 2022](https://dfrws.org/conferences/dfrws-eu-2022/) | [JNIC 2022](https://2022.jnic.es/) | [VECoS 2022](http://vecos-world.org/2022/) | [WFCS 2022](https://wfcs22.unipv.it/)  
+* [DFRWS EU 2022](https://dfrws.org/conferences/dfrws-eu-2022/) | [JNIC 2022](https://2022.jnic.es/) | [PAAP 2022](http://www.paap2022.net/index.html) | [VECoS 2022](http://vecos-world.org/2022/) | [WFCS 2022](https://wfcs22.unipv.it/)  
 * [CISTI 2021](https://ieeexplore.ieee.org/xpl/conhome/9476245/proceeding) | [DFRWS EU 2021](https://dfrws.org/conferences/dfrws-eu-2021/) | [ETFA 2021](https://www.ieee-etfa.org/) | [JNIC 2021](https://2021.jnic.es/) | [VECoS 2021](http://vecos-world.org/2021/) | [WFCS 2021](https://konferenzen.jku.at/wfcs2021/) | [WoSoCer 2021](http://2021.issre.net/WoSoCer) 
 * [CISTI 2020](https://ieeexplore.ieee.org/xpl/conhome/9137058/proceeding) | [ETFA 2020](https://ieeexplore.ieee.org/xpl/conhome/9210104/proceeding) | [ICITST 2020](https://icitst.org/) | [MICRADS 2020](http://www.risti.xyz/issues/ristie29.pdf) | [VECoS 2020](http://vecos-world.org/2020/) | [WFCS 2020](https://ieeexplore.ieee.org/xpl/conhome/9110481/proceeding)
 * [ETFA 2019](https://ieeexplore.ieee.org/xpl/conhome/8851311/proceeding) | [JNIC 2019](https://2019.jnic.es/) | [WFCS 2019](https://ieeexplore.ieee.org/xpl/conhome/8755442/proceeding)
