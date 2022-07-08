@@ -33,6 +33,7 @@ Unless explicitly stated, the following PDFs are in Spanish.
 
 ### BSc. students
 
+* [Prevalencia de tipos de ASEPs en malware de Windows](https://webdiis.unizar.es/~ricardo/files/TFGs/PrevalenciaTiposASEPsMalwareWindows.pdf). Student: Carlos Borau González. Bachelor's degree in Informatics Engineering, course 2021/2022.
 * [Infraestructura software para el arbitraje multiestratégico sobre criptomonedas](https://webdiis.unizar.es/~ricardo/files/TFGs/InfraestructuraSoftwareArbitrajeCriptomonedas.pdf). Student: Daniel Huici Meseguer. Bachelor's degree in Informatics Engineering, course 2020/2021.
 * [Sistema para categorización de textos en un ámbito nicho con pocos datos etiquetados](https://webdiis.unizar.es/~ricardo/files/TFGs/CategozacionTextosAmbitosPocosDatosEtiquetados.pdf). Student: Miguel Escribano Pérez. Bachelor's degree in Informatics Engineering, course 2020/2021.
 * [Infraestructura software para el análisis de las interacciones en Twitter: aplicación a la detección de trastornos de conducta alimentaria](https://webdiis.unizar.es/~ricardo/files/TFGs/AnalisisInteraccionesTwitterDeteccionTCA.pdf). Student: Daniel Revillo Rey. Bachelor's degree in Informatics Engineering, course 2019/2020.
