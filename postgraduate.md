@@ -8,6 +8,12 @@ permalink: /teaching/postgraduate
 
 This page lists some of the courses that I have or have been fortunate enough to teach at the postgraduate level. 
 
+### Course 2022-2023
+
+* [Exploiting Software Vulnerabilities](https://webdiis.unizar.es/~ricardo/esv-62240/). Elective course (3 ECTS) of the Master's Degree in Informatics Engineering, School of Engineering and Architecture, University of Zaragoza (Spain).
+* [Software Analysis I](https://agora.unileon.es/course/view.php?id=3091). Compulsory course (4 ECTS) of the Master's Degree in Research in Cybersecurity, University of León (Spain).
+* [Software Analysis II](https://agora.unileon.es/course/view.php?id=3123). Compulsory course (3 ECTS) of the Master's Degree in Research in Cybersecurity, University of León (Spain).
+
 
 ### Course 2021-2022
 
