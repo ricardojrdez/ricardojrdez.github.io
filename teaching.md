@@ -34,6 +34,9 @@ Unless explicitly stated, the following PDFs are in Spanish.
 
 ### BSc. students
 
+* [Implementación de un DNS con capacidad de detección de dominios maliciosos generados algorítmicamente](https://webdiis.unizar.es/~ricardo/files/TFGs/ImplementacionDNSdeteccionDGA.pdf). Student: Víctor Mateo Calvillo. Bachelor's degree in Telecommunications Technology and Services Engineering, course 2021/2022.
+* [Implementación de un sistema SIEM en un sistema SCADA](https://webdiis.unizar.es/~ricardo/files/TFGs/ImplementacionSIEM_SCADA.pdf). Student: Jaime del Amo Pamplona. Bachelor's degree in Telecommunications Technology and Services Engineering, course 2021/2022.
+* [Detección de puntos de extensión de autoinicio en sistemas Linux](https://webdiis.unizar.es/~ricardo/files/TFGs/DeteccionASESPsSistemasLinux.pdf). Student: Carlos Navarro Gascón. Bachelor's degree in Informatics Engineering, course 2021/2022.
 * [Prevalencia de tipos de ASEPs en malware de Windows](https://webdiis.unizar.es/~ricardo/files/TFGs/PrevalenciaTiposASEPsMalwareWindows.pdf). Student: Carlos Borau González. Bachelor's degree in Informatics Engineering, course 2021/2022.
 * [Infraestructura software para el arbitraje multiestratégico sobre criptomonedas](https://webdiis.unizar.es/~ricardo/files/TFGs/InfraestructuraSoftwareArbitrajeCriptomonedas.pdf). Student: Daniel Huici Meseguer. Bachelor's degree in Informatics Engineering, course 2020/2021.
 * [Sistema para categorización de textos en un ámbito nicho con pocos datos etiquetados](https://webdiis.unizar.es/~ricardo/files/TFGs/CategozacionTextosAmbitosPocosDatosEtiquetados.pdf). Student: Miguel Escribano Pérez. Bachelor's degree in Informatics Engineering, course 2020/2021.
