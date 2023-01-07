@@ -18,7 +18,7 @@ My Google Scholar profile is available [at this link](https://scholar.google.es/
 
 ### Guest Editor
 
-* [ACM DTRAP](https://dl.acm.org/journal/dtrap) [Special Issue on Challenges and Trends in Malware Analysis](https://dtrap-blog.acm.org/2020/08/06/special-issue-on-challenges-and-trends-in-malware-analysis/), 2020 [**DEADLINE: Nov 30, 2020**]
+* [ACM DTRAP](https://dl.acm.org/journal/dtrap) [Special Issue on Challenges and Trends in Malware Analysis](https://dtrap-blog.acm.org/2020/08/06/special-issue-on-challenges-and-trends-in-malware-analysis/), 2020 
 * [Int. J. Critical Computer-Based Systems](https://www.inderscience.com/jhome.php?jcode=ijccbs), [Vol. 9, Nos. 1/2, 2019](https://www.inderscience.com/info/inarticletoc.php?jcode=ijccbs&year=2019&vol=9&issue=1/2)
 
 ### Editorial Board member
@@ -53,7 +53,7 @@ Conference on Performance Evaluation Methodologies and Tools (VALUETOOLS 2019)](
 ### Other Activities
 
 * Member of _Foro Nacional de Ciberseguridad_ (in CRUE subgroup), 2020 - (onward)
-* Treasurer of IEEE Computer Society-Spanish chapter, December 2018 - (onward)
+* Treasurer of IEEE Computer Society-Spanish chapter, December 2018 - December 2022
 * Secretary of the [Sociedad Científica de Computación Distribuida](http://sccd.unizar.es), June 2017 – September 2021
 * Member of [IEEE-IES Technical Committee on Factory Automation, Subcommittee on Fault Tolerant and Dependable Systems](https://sites.google.com/view/ies-tcfa/home), May 2017 – (onward)
 * Member of [Aragon Institute for Engineering Research](https://i3a.unizar.es/en)

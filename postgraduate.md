@@ -14,6 +14,7 @@ This page lists some of the courses that I have or have been fortunate enough to
 * [Software Analysis I](https://agora.unileon.es/course/view.php?id=3091). Compulsory course (4 ECTS) of the Master's Degree in Research in Cybersecurity, University of León (Spain).
 * [Software Analysis II](https://agora.unileon.es/course/view.php?id=3123). Compulsory course (3 ECTS) of the Master's Degree in Research in Cybersecurity, University of León (Spain).
 
+## Past courses
 
 ### Course 2021-2022
 
@@ -21,8 +22,6 @@ This page lists some of the courses that I have or have been fortunate enough to
 * [Software Analysis I](https://agora.unileon.es/course/view.php?id=XXX). Compulsory course (4 ECTS) of the Master's Degree in Research in Cybersecurity, University of León (Spain).
 * [Software Analysis II](https://agora.unileon.es/course/view.php?id=XXX). Compulsory course (3 ECTS) of the Master's Degree in Research in Cybersecurity, University of León (Spain).
 * [Software Analysis II](https://agora.unileon.es/course/view.php?id=XXX). Elective course (6 ECTS) of the Master's Degree in Research in Cybersecurity, University of León (Spain).
-
-## Past courses
 
 ### Course 2020-2021
 
