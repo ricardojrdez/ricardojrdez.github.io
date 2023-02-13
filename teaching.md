@@ -34,6 +34,7 @@ Unless explicitly stated, the following PDFs are in Spanish.
 
 ### BSc. students
 
+* [Detección de ataques en redes de sistemas de control industrial mediante técnicas de aprendizaje máquina](https://webdiis.unizar.es/~ricardo/files/TFGs/Deteccion_Ataques_ICS_Mediante_ML.pdf). Student: Javier Morón Borraz. Bachelor's degree in Telecommunications Technology and Services Engineering, course 2022/2023.
 * [Implementación de un DNS con capacidad de detección de dominios maliciosos generados algorítmicamente](https://webdiis.unizar.es/~ricardo/files/TFGs/ImplementacionDNSdeteccionDGA.pdf). Student: Víctor Mateo Calvillo. Bachelor's degree in Telecommunications Technology and Services Engineering, course 2021/2022.
 * [Implementación de un sistema SIEM en un sistema SCADA](https://webdiis.unizar.es/~ricardo/files/TFGs/ImplementacionSIEM_SCADA.pdf). Student: Jaime del Amo Pamplona. Bachelor's degree in Telecommunications Technology and Services Engineering, course 2021/2022.
 * [Detección de puntos de extensión de autoinicio en sistemas Linux](https://webdiis.unizar.es/~ricardo/files/TFGs/DeteccionASESPsSistemasLinux.pdf). Student: Carlos Navarro Gascón. Bachelor's degree in Informatics Engineering, course 2021/2022.
