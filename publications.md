@@ -12,7 +12,7 @@ permalink: /publications/
 
 ## 2023
 
-- **Module Extraction and DLL Hijacking Detection via Single or Multiple Memory Dumps**. Pedro Fernández-Álvarez, Ricardo J. Rodríguez, *Forensic Science International: Digital Investigation*, vol. PP, pp. PP, 2023. doi: [10.1016/j.fsidi.2023.301505](https://doi.org/10.1016/j.fsidi.2023.301505) [![external URL](assets/images/external.png)](http://webdiis.unizar.es/~ricardo/files/papers/FR-FSIDI-23.pdf)
+- **Module Extraction and DLL Hijacking Detection via Single or Multiple Memory Dumps**. Pedro Fernández-Álvarez, Ricardo J. Rodríguez, *Forensic Science International: Digital Investigation*, vol. 44, pp. 301505, 2023. doi: [10.1016/j.fsidi.2023.301505](https://doi.org/10.1016/j.fsidi.2023.301505) [![external URL](assets/images/external.png)](http://webdiis.unizar.es/~ricardo/files/papers/FR-FSIDI-23.pdf)
 - **Towards UAV-based MEC Service Chain Resilience Evaluation: A Quantitative Modeling Approach**. Jing Bai, Xiaolin Chang, Ricardo J. Rodríguez, Kishor Trivedi, Shupan Li, *IEEE Transactions on Vehicular Technology*, vol. 72, iss. 4, pp. 5181--5194, 2023. doi: [10.1109/TVT.2022.3225564](https://doi.org/10.1109/TVT.2022.3225564) [![external URL](assets/images/external.png)](http://webdiis.unizar.es/~ricardo/files/papers/BCRTL-TVT-22.pdf)
 
 ## 2022
