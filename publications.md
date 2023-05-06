@@ -10,9 +10,13 @@ permalink: /publications/
 
 *Personal use of this material is permitted. However, permission to reprint/republish this material for advertising or promotional purposes or for creating new collective works for resale or redistribution to servers or lists, or to reuse any copyrighted component of this work in other works must be obtained from the Publisher.*
 
+## 2023
+
+- **Module Extraction and DLL Hijacking Detection via Single or Multiple Memory Dumps**. Pedro Fernández-Álvarez, Ricardo J. Rodríguez, *Forensic Science International: Digital Investigation*, vol. PP, pp. PP, 2023. doi: [10.1016/j.fsidi.2023.301505](https://doi.org/10.1016/j.fsidi.2023.301505) [![external URL](assets/images/external.png)](http://webdiis.unizar.es/~ricardo/files/papers/FR-FSIDI-23.pdf)
+- **Towards UAV-based MEC Service Chain Resilience Evaluation: A Quantitative Modeling Approach**. Jing Bai, Xiaolin Chang, Ricardo J. Rodríguez, Kishor Trivedi, Shupan Li, *IEEE Transactions on Vehicular Technology*, vol. 72, iss. 4, pp. 5181--5194, 2023. doi: [10.1109/TVT.2022.3225564](https://doi.org/10.1109/TVT.2022.3225564) [![external URL](assets/images/external.png)](http://webdiis.unizar.es/~ricardo/files/papers/BCRTL-TVT-22.pdf)
+
 ## 2022
 
-- **Towards UAV-based MEC Service Chain Resilience Evaluation: A Quantitative Modeling Approach**. Jing Bai, Xiaolin Chang, Ricardo J. Rodríguez, Kishor Trivedi, Shupan Li, *IEEE Transactions on Vehicular Technology*, vol. PP, iss. PP, pp. 1--14, 2022.  [![external URL](assets/images/external.png)](http://webdiis.unizar.es/~ricardo/files/papers/BCRTL-TVT-22.pdf)
 - **Resource Consumption Evaluation of C++ Cryptographic Libraries on Resource-Constrained Devices**. Razvan Raducu, Ricardo J. Rodríguez, Pedro Álvarez, in *Applied Cryptography in Computer and Communications*, pp. 65--75, Springer Nature Switzerland, 2022. doi: [10.1007/978-3-031-17081-2_5](https://doi.org/10.1007/978-3-031-17081-2_5) [![external URL](assets/images/external.png)](http://webdiis.unizar.es/~ricardo/files/papers/RRA-AC3-22.pdf)
 - **DI-AA: An Interpretable White-box Attack for Fooling Deep Neural Networks**. Yixiang Wang, Jiqiang Liu, Xiaolin Chang, Ricardo J. Rodríguez, Jianhua Wang, *Information Sciences*, vol. 610, pp. 14--32, 2022. doi: [10.1016/j.ins.2022.07.157](https://doi.org/10.1016/j.ins.2022.07.157) [![external URL](assets/images/external.png)](http://webdiis.unizar.es/~ricardo/files/papers/WLCRW-INS-22.pdf)
 - **AB-FGSM: AdaBelief Optimizer and FGSM-Based Approach to Generate Adversarial Examples**. Yixiang Wang, Jiqiang Liu, Xiaolin Chang, Jianhua Wang, Ricardo J. Rodríguez, *Journal of Information Security and Applications*, vol. 68, pp. 103227, 2022. doi: [10.1016/j.jisa.2022.103227](https://doi.org/10.1016/j.jisa.2022.103227) [![external URL](assets/images/external.png)](http://webdiis.unizar.es/~ricardo/files/papers/WLCWR-JISA-22.pdf)
