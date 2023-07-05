@@ -8,6 +8,11 @@ permalink: /teaching/undergraduate
 
 This page lists some of the courses that I have or have been fortunate enough to teach at the undergraduate level. 
 
+### Course 2023-2024
+
+* [Programming I](https://estudios.unizar.es/estudio/asignatura?anyo_academico=2023&asignatura_id=30204&estudio_id=20230148&centro_id=110&plan_id_nk=439). Core course (6 ECTS) of the Bachelor's Degree in Informatics Engineering, School of Engineering and Architecture, University of Zaragoza (Spain).
+* [Data Structures and Algorithms](https://estudios.unizar.es/estudio/asignatura?anyo_academico=2023&asignatura_id=30213&estudio_id=20230148&centro_id=110&plan_id_nk=439). Compulsory course (6 ECTS) of the Bachelor's Degree in Informatics Engineering, School of Engineering and Architecture, University of Zaragoza (Spain).
+
 ### Course 2022-2023
 
 * [Programming I](https://estudios.unizar.es/estudio/asignatura?anyo_academico=2022&asignatura_id=30204&estudio_id=20220148&centro_id=110&plan_id_nk=439). Core course (6 ECTS) of the Bachelor's Degree in Informatics Engineering, School of Engineering and Architecture, University of Zaragoza (Spain).
