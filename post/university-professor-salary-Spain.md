@@ -118,7 +118,11 @@ To summarize the evolution of gross salary over these years, I have extracted th
 - 2021:	36,723.28 € (UZ)
 - 2022:	43,985.65 € (UZ, 3 seniority bonus)
 
-I've also indicated the places where I was working during those years. At the moment of this writing (July 2023), I have been awarded with 2 research productivity bonus, but they have still not been incorporated in the salary. Likewise, I have been awarded with 1 teaching excelence on February 13, 2023 (1636.92€/annually). Therefore, my gross annual salary of 2023 will almost certainly be higher than in 2022. 
+I've also indicated the places where I was working during those years and plotted as a stacked bar in the next figure.
+
+![Salary evolution by years and paying entities.](images/salary_evolution)
+
+At the moment of this writing (on July 2023, while teaching a Summer School on Secure Software Programming at [Xidian University](https://www.xidian.edu.cn/)), I have been awarded with 2 research productivity bonus, but they have still not been incorporated in my salary. Likewise, I have been awarded with 1 teaching excelence on February 13, 2023 (1636.92€/annually). Therefore, my gross annual salary of 2023 will almost certainly be higher than in 2022. 
 
 If you do the math, the average salary I've earned in these 14 years is 29,342.30€, while the median is 32,681.64€. Of course, the salary during the first years as PhD student was very low, being widely surpassed in the following years. Currently I have a very decent salary to live comfortably in Zaragoza.
 
