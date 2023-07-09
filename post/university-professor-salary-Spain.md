@@ -120,7 +120,7 @@ To summarize the evolution of gross salary over these years, I have extracted th
 
 I've also indicated the places where I was working during those years and plotted as a stacked bar in the next figure.
 
-![Salary evolution by years and paying entities.](images/salary_evolution)
+![Salary evolution by years and paying entities.](images/salary_evolution.png)
 
 At the moment of this writing (on July 2023, while teaching a Summer School on Secure Software Programming at [Xidian University](https://www.xidian.edu.cn/)), I have been awarded with 2 research productivity bonus, but they have still not been incorporated in my salary. Likewise, I have been awarded with 1 teaching excelence on February 13, 2023 (1636.92€/annually). Therefore, my gross annual salary of 2023 will almost certainly be higher than in 2022. 
 
