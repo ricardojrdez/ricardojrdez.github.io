@@ -10,19 +10,22 @@ I successfully defended my doctorate, entitled ["Performance Analysis and Resour
 
 I am part of the [Distributed Computing research group](http://webdiis.unizar.es/DISCO/) at the University of Zaragoza and I am a member of the [Aragon Institute of Engineering Research](https://i3a.unizar.es/en). In particular, I'm the Principal Investigator in the research line focused on application of formal models to cybersecurity. Under this research line, we have created a webpage dedicated to disseminating our contributions. For more information, see [this link](https://reversea.me/).
 
+I have written a post to tell about my professional career (and salary evolution) within the Spanish university system that [you can read here](post/university-professor-salary-Spain).
+
 My PGP public key can be found [here](http://webdiis.unizar.es/~ricardo/files/rjrodriguez.asc).
 
 ## Research
 
 You can find a list of my publications on the [Publications](publications) page.
 
-You can find a list of my talks and seminars on the [Talks](talks) page.
-
 A list of my professional research activities, as well as my current and former PhD. students, can be found on the [Research](research) page.
+
+You can find a list of my talks, seminars, and participation in media on the [Talks & Media](talks) page.
 
 ## Teaching
 
 On the [Teaching](teaching) page you can find a list of courses that I have or have been fortunate enough to teach, as well as related activities (such as counseling for undergraduate and graduate students). 
+
 
 ## Contact data
 
