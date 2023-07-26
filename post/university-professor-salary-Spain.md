@@ -4,6 +4,8 @@ title: What is the salary of a university professor in Spain?
 permalink: /post/university-professor-salary-Spain
 ---
 
+# What is the salary of a university professor in Spain?
+
 This post is created after my PhD student, [Daniel Uroz, published a post (in Spanish) describing the salary of a researcher in the Spanish university system](https://duroz.github.io/post/sueldo-investigador/) (and in particular, with the salaries of the University of Zaragoza and the scholarships of the Autonomous Community of Aragon -- they may vary in each university and Autonomous Community). As I have been a PhD student and now an Associate Professor, I think my point of view on this complements Daniel's post and may also be of interest.
 
 First, I will describe the types of teaching positions that **existed** (the law has recently changed) and exist within the Spanish university system to give some background. Then, I will tell what my professional career has been within the Spanish university system. Last, I will comment on the evolution of my salary during my career and the pros and cons of working as a professor. Finally, I would like to point out that everything I report here is my personal experience and that my particular case cannot be extrapolated to other professors in the Spanish university system.
