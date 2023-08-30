@@ -36,6 +36,7 @@ Unless explicitly stated, the following PDFs are in Spanish.
 
 ### BSc. students
 
+* [Sistema Integrado para la Gestión Centralizada de Logs](https://webdiis.unizar.es/~ricardo/files/TFGs/Sistema_Integrado_Gestion_Centralizada_Logs.pdf). Student: Iván Moreno Sanz. Bachelor's degree in Telecommunications Technology and Services Engineering, course 2023/2024.
 * [Detección de ataques en redes de sistemas de control industrial mediante técnicas de aprendizaje máquina](https://webdiis.unizar.es/~ricardo/files/TFGs/Deteccion_Ataques_ICS_Mediante_ML.pdf). Student: Javier Morón Borraz. Bachelor's degree in Telecommunications Technology and Services Engineering, course 2022/2023.
 * [Implementación de un DNS con capacidad de detección de dominios maliciosos generados algorítmicamente](https://webdiis.unizar.es/~ricardo/files/TFGs/ImplementacionDNSdeteccionDGA.pdf). Student: Víctor Mateo Calvillo. Bachelor's degree in Telecommunications Technology and Services Engineering, course 2021/2022.
 * [Implementación de un sistema SIEM en un sistema SCADA](https://webdiis.unizar.es/~ricardo/files/TFGs/ImplementacionSIEM_SCADA.pdf). Student: Jaime del Amo Pamplona. Bachelor's degree in Telecommunications Technology and Services Engineering, course 2021/2022.
