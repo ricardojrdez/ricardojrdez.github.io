@@ -19,7 +19,8 @@ Unless explicitly stated, the following PDFs are in Spanish.
 
 ### MSc. students
 
-
+* [Comparación de funciones a través del análisis del grafo de control de flujo](https://webdiis.unizar.es/~ricardo/files/TFMs/Comparacion-Funciones-Analisis-Control-Flujo_TFM_ULE.pdf). Student: Carmen Carrero Hurtado. Master's degree in Research in Cybersecurity (University of León, Spain), course 2022/2023.
+* [Inferencia de tipos de dato en ficheros ejecutables sin símbolos](https://webdiis.unizar.es/~ricardo/files/TFMs/Inferencia-Tipos-Dato-Ficheros-Ejecutables-Sin-Simbolos_TFM_ULE.pdf). Student: Pablo Ruiz Encinas. Master's degree in Research in Cybersecurity (University of León, Spain), course 2022/2023.
 * [Modelos de aprendizaje máquina para la detección de dominios maliciosos generados algorítmicamente](https://webdiis.unizar.es/~ricardo/files/TFMs/Modelos-Aprendizaje-Maquina-Deteccion-DGA_TFM_ULE.pdf). Student: Tomás Pelayo Benedet. Master's degree in Research in Cybersecurity (University of León, Spain), course 2022/2023.
 * [Búsqueda eficiente de hashes de similitud aproximada](https://webdiis.unizar.es/~ricardo/files/TFMs/BusquedaEficienteHashesSimilitudAproximada_TFM_UZ.pdf). Student: Daniel Huici Meseguer. Master's degree in Informatics Engineering (University of Zaragoza, Spain), course 2022/2023.
 * [Sistema de análisis de software automático basado en ejecución simbólica de código fuente Ada](https://webdiis.unizar.es/~ricardo/files/TFMs/SistemaAutomaticoEjecucionSimbolicaAda_TFM_ULE.pdf). Student: Mario García Pérez. Master's degree in Research in Cybersecurity (University of León, Spain), course 2021/2022.
