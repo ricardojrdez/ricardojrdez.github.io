@@ -19,6 +19,8 @@ Unless explicitly stated, the following PDFs are in Spanish.
 
 ### MSc. students
 
+* [Análisis forense en sistemas Windows](https://webdiis.unizar.es/~ricardo/files/TFMs/Analisis-Forense-Sistemas-Windows_TFM_VIU.pdf). Student: Claudia de la Caridad LLauró Prado. Master's degree in Cybersecurity (International University of Valencia, Spain), course 2022/2023.
+* [Identificación de funciones de biblioteca en programas compilados mediante técnicas basadas en grafos](https://webdiis.unizar.es/~ricardo/files/TFMs/Identificacion-Funciones-Biblioteca-Binarios-Estaticos-Grafos_TFM_VIU.pdf). Student: Oleg Vasilenok. Master's degree in Cybersecurity (International University of Valencia, Spain), course 2022/2023.
 * [Comparación de funciones a través del análisis del grafo de control de flujo](https://webdiis.unizar.es/~ricardo/files/TFMs/Comparacion-Funciones-Analisis-Control-Flujo_TFM_ULE.pdf). Student: Carmen Carrero Hurtado. Master's degree in Research in Cybersecurity (University of León, Spain), course 2022/2023.
 * [Inferencia de tipos de dato en ficheros ejecutables sin símbolos](https://webdiis.unizar.es/~ricardo/files/TFMs/Inferencia-Tipos-Dato-Ficheros-Ejecutables-Sin-Simbolos_TFM_ULE.pdf). Student: Pablo Ruiz Encinas. Master's degree in Research in Cybersecurity (University of León, Spain), course 2022/2023.
 * [Modelos de aprendizaje máquina para la detección de dominios maliciosos generados algorítmicamente](https://webdiis.unizar.es/~ricardo/files/TFMs/Modelos-Aprendizaje-Maquina-Deteccion-DGA_TFM_ULE.pdf). Student: Tomás Pelayo Benedet. Master's degree in Research in Cybersecurity (University of León, Spain), course 2022/2023.
