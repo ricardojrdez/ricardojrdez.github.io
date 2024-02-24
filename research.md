@@ -41,7 +41,7 @@ Conference on Performance Evaluation Methodologies and Tools (VALUETOOLS 2019)](
 
 ### Programme Committee Member
 
-* [DFRWS EU 2024](https://dfrws.org/conferences/dfrws-eu-2024/)
+* [DFRWS EU 2024](https://dfrws.org/conferences/dfrws-eu-2024/)  | [ETFA 2023](https://2024.ieee-etfa.org/) 
 * [DFRWS EU 2023](https://dfrws.org/conferences/dfrws-eu-2023/) | [ETFA 2023](https://2023.ieee-etfa.org/) | [JNIC 2023](https://2023.jnic.es/) | [PAAP 2023](http://www.paap.net.cn/2023/) | [VECoS 2023](http://vecos-world.org/2023/) | [WFCS 2023](https://wfcs23.unipv.it/) 
 * [DESEi+d 2022](https://www.tecnologiaeinnovacion.defensa.gob.es/es-es/Presentacion/deseid_2022/Paginas/Defensa.aspx) | [DFRWS EU 2022](https://dfrws.org/conferences/dfrws-eu-2022/) | [ETFA 2022](https://2022.ieee-etfa.org) | [JNIC 2022](https://2022.jnic.es/) | [PAAP 2022](http://www.paap2022.net/index.html) | [VECoS 2022](http://vecos-world.org/2022/) | [WFCS 2022](https://wfcs22.unipv.it/) | [WoSoCer 2022](http://2022.issre.net/WoSoCer) 
 * [CISTI 2021](https://ieeexplore.ieee.org/xpl/conhome/9476245/proceeding) | [DFRWS EU 2021](https://dfrws.org/conferences/dfrws-eu-2021/) | [ETFA 2021](https://www.ieee-etfa.org/) | [JNIC 2021](https://2021.jnic.es/) | [VECoS 2021](http://vecos-world.org/2021/) | [WFCS 2021](https://konferenzen.jku.at/wfcs2021/) | [WoSoCer 2021](http://2021.issre.net/WoSoCer) 

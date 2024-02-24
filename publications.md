@@ -12,6 +12,7 @@ permalink: /publications/
 
 ## 2023
 
+- **MOSTO: A Toolkit to Facilitate Security Auditing of ICS Devices using Modbus/TCP**. Ricardo J. Rodríguez, Stefano Marrone, Ibai Marcos, Giuseppe Porzio, *Computers & Security*, vol. 132, pp. 103373, 2023. doi: [10.1016/j.cose.2023.103373](https://doi.org/10.1016/j.cose.2023.103373) [![external URL](assets/images/external.png)](http://webdiis.unizar.es/~ricardo/files/papers/RMMP-COSE-23.pdf)
 - **Module Extraction and DLL Hijacking Detection via Single or Multiple Memory Dumps**. Pedro Fernández-Álvarez, Ricardo J. Rodríguez, *Forensic Science International: Digital Investigation*, vol. 44, pp. 301505, 2023. doi: [10.1016/j.fsidi.2023.301505](https://doi.org/10.1016/j.fsidi.2023.301505) [![external URL](assets/images/external.png)](http://webdiis.unizar.es/~ricardo/files/papers/FR-FSIDI-23.pdf)
 - **Towards UAV-based MEC Service Chain Resilience Evaluation: A Quantitative Modeling Approach**. Jing Bai, Xiaolin Chang, Ricardo J. Rodríguez, Kishor Trivedi, Shupan Li, *IEEE Transactions on Vehicular Technology*, vol. 72, iss. 4, pp. 5181--5194, 2023. doi: [10.1109/TVT.2022.3225564](https://doi.org/10.1109/TVT.2022.3225564) [![external URL](assets/images/external.png)](http://webdiis.unizar.es/~ricardo/files/papers/BCRTL-TVT-22.pdf)
 
